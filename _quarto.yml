@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alvin Bong"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects/index.qmd
+
+
+format:
+  html:
+    theme:
+      dark: solar
+      light: cosmo
+    css: styles.css
+  
+editor: visual
+

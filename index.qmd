@@ -1,0 +1,51 @@
+---
+title: "Alvin Bong"
+subtitle: Mathematics Undergrad
+image: mypic.jpg
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:23b2099@ubd.edu.bn
+    - icon: linkedin
+      href: https://www.linkedin.com/in/alvinbjl/
+    - icon: github
+      href: https://github.com/alvinbjl
+id: ppc
+
+format:
+  html: 
+    page-layout: full
+---
+
+::::::: {ppc}
+# Biography
+
+I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.
+
+My interests lie in bridging mathematical theory with practical applications, particularly in linear algebra, statistical data analysis, and mathematical modeling. My recent project, *Spatial Autocorelation of Schools*, supervised by [Prof. Haziq Jamil](haziqj.ml), explored the distributions of schools in Brunei using R programming language. I am expanding my expertise by learning Python and delving into advanced linear algebra for climate data analysis. I also look forward to contributing to the Brunei R Community in my upcoming projects.
+
+Outside of my studies, I am actively involved in sports, including swimming, table tennis, and badminton. I aspire to contribute to impactful projects addressing pressing global challenges and am always eager to learn, collaborate, and make a difference.
+
+:::::: columns
+::: {.column width="45%"}
+## Interests
+
+-   Linear Algebra
+-   Statistical Data Analysis
+-   Climate Data Analysis
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+## Education
+
+-   **BSc in Mathematics** <br> Universiti of Brunei Darussaalam (UBD)
+-   **GCE A'Level** (3A\*) <br> Self-taught (Private Candidate)
+-   **GCE O'Level** (9A\*) <br> Chung Hwa Middle School, BSB
+:::
+::::::
+:::::::
