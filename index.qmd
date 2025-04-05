@@ -1,8 +1,10 @@
 ---
 title: "Alvin Bong"
 subtitle: Mathematics Undergrad
-image: mypic.jpg
+image: images/mypic.jpg
+resources: cv.pdf
 about: 
+  id: hero-heading
   template: trestles
   image-shape: round
   links:
@@ -19,22 +21,26 @@ format:
     page-layout: full
 ---
 
-::::::: {ppc}
+:::{#hero-heading}
+
 # Biography
 
 I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.
 
-My interests lie in bridging mathematical theory with practical applications, particularly in linear algebra, statistical data analysis, and mathematical modeling. My recent project, *Spatial Autocorelation of Schools*, supervised by [Prof. Haziq Jamil](haziqj.ml), explored the distributions of schools in Brunei using R programming language. I am expanding my expertise by learning Python and delving into advanced linear algebra for climate data analysis. I also look forward to contributing to the Brunei R Community in my upcoming projects.
+I aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine,  [*Spatial Autocorelation of Schools*](https://alvinbjl.github.io/spatial-autocorrelation-school/), supervised by [Dr. Haziq Jamil](https://haziqj.ml), examined the  spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package. 
 
-Outside of my studies, I am actively involved in sports, including swimming, table tennis, and badminton. I aspire to contribute to impactful projects addressing pressing global challenges and am always eager to learn, collaborate, and make a difference.
+Currently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact! 
+
+More About me!
 
 :::::: columns
 ::: {.column width="45%"}
 ## Interests
 
+-   Data Analysis
+-   Education
 -   Linear Algebra
--   Statistical Data Analysis
--   Climate Data Analysis
+
 :::
 
 ::: {.column width="5%"}
@@ -48,4 +54,52 @@ Outside of my studies, I am actively involved in sports, including swimming, tab
 -   **GCE O'Level** (9A\*) <br> Chung Hwa Middle School, BSB
 :::
 ::::::
-:::::::
+
+:::
+
+
+# Skills
+::: {.columns}
+
+::: {.column width="33%"}
+
+## 💻 Software  
+
+MS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python  
+:::
+
+::: {.column width="33%"}
+
+## ♾️ Mathematics  
+
+Optimization, Hypothesis Testing, Regression Analysis, SVD, Spatial Autocorrelation, ODE, Linear Congruence, Abstract Algebra  
+:::
+
+::: {.column width="33%"}
+
+## 🧩 Soft Skills  
+
+Teamwork, Problem Solving, Leadership, Adaptability, Patience  
+:::
+:::
+
+# Experience
+::: {.columns}
+
+::: {.column width="40%"}
+[![](images/exp1.png){fig-align="center"}](experience/index.qmd#sec-bruneir)
+:::
+
+::: {.column width="40%"}
+[![](images/exp2.png){fig-align="center"}](experience/index.qmd#sec-nbt)
+:::
+
+::: {.column width="40%"}
+[![](images/exp3.png){fig-align="center"}](experience/index.qmd#sec-tutor)
+:::
+
+::: {.column width="40%"}
+[![](images/exp4.png){fig-align="center"}](experience/index.qmd#sec-sports)
+:::
+
+:::

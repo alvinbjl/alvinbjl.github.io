@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Alvin Bong",
     "section": "",
-    "text": "I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nMy interests lie in bridging mathematical theory with practical applications, particularly in linear algebra, statistical data analysis, and mathematical modeling. My recent project, Spatial Autocorelation of Schools, supervised by Prof. Haziq Jamil, explored the distributions of schools in Brunei using R programming language. I am expanding my expertise by learning Python and delving into advanced linear algebra for climate data analysis. I also look forward to contributing to the Brunei R Community in my upcoming projects.\nOutside of my studies, I am actively involved in sports, including swimming, table tennis, and badminton. I aspire to contribute to impactful projects addressing pressing global challenges and am always eager to learn, collaborate, and make a difference.\n\n\n\n\n\nLinear Algebra\nStatistical Data Analysis\nClimate Data Analysis\n\n\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB"
+    "text": "I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nI aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine, Spatial Autocorelation of Schools, supervised by Dr. Haziq Jamil, examined the spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package.\nCurrently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact!\nMore About me!\n\n\n\n\n\nData Analysis\nEducation\nLinear Algebra\n\n\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB"
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Alvin Bong",
     "section": "",
-    "text": "Linear Algebra\nStatistical Data Analysis\nClimate Data Analysis"
+    "text": "Data Analysis\nEducation\nLinear Algebra"
   },
   {
     "objectID": "index.html#education",
@@ -25,6 +25,62 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Spatial Autocorrelation of Schools Across Brunei Darussalam\n\n\n\nR\n\n\nSpatial Autocorrelation\n\n\nData Analysis\n\n\n\nThis project uses spatial autocorrelation to analyse cluster of schools in Brunei.\n\n\n\n\n\n\n\n\n\n\nMore to come. Stay tuned!\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Spatial Autocorrelation of Schools Across Brunei\n\n\n\nR\n\n\nSpatial Autocorrelation\n\n\nData Analysis\n\n\n\nThis project uses spatial autocorrelation to analyse cluster of schools in Brunei.\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei Climate Data Analysis\n\n\n\nR\n\n\nTime Series\n\n\nData Analysis\n\n\n\nThis project analyse air temperature in Brunei across 40-years.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Spatial Data Analysis using {bruneimap}\n\n\n\nR\n\n\nTalk\n\n\n\nSpeaker for Brunei R User Group 2025Q1 sharing session.\n\n\n\n\n\n\n\n\n\n\nMore to come. Stay tuned!\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience/index.html",
+    "href": "experience/index.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Starting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.\nI served as the speaker for the group’s first 2025 meetup, where I delivered a talk on Spatial Data Analysis using the newly released {bruneimap} package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data."
+  },
+  {
+    "objectID": "experience/index.html#logistics",
+    "href": "experience/index.html#logistics",
+    "title": "Experience",
+    "section": "",
+    "text": "Starting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.\nI served as the speaker for the group’s first 2025 meetup, where I delivered a talk on Spatial Data Analysis using the newly released {bruneimap} package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data."
+  },
+  {
+    "objectID": "experience/index.html#brunei-r-user",
+    "href": "experience/index.html#brunei-r-user",
+    "title": "Experience",
+    "section": "",
+    "text": "Starting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.\nI served as the speaker for the group’s first 2025 meetup, where I delivered a talk on Spatial Data Analysis using the newly released {bruneimap} package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data."
+  },
+  {
+    "objectID": "experience/index.html#swimming",
+    "href": "experience/index.html#swimming",
+    "title": "Experience",
+    "section": "Swimming",
+    "text": "Swimming\nI began swimming at the age of six, starting with local and regional competitions. I remember staying late after school for training, driven by the goal of joining the national team and competing internationally. After years of dedication and perseverance, I earned a spot on the national team in 2018 and was honored to represent Brunei in the ASEAN School Games in 2018 and 2019. I retired from competitive swimming in 2020 to focus on my professional life.\nThe greatest lesson I took from swimming is the importance of discipline, committing to a routine, and pushing through challenges."
+  },
+  {
+    "objectID": "experience/index.html#table-tennis",
+    "href": "experience/index.html#table-tennis",
+    "title": "Experience",
+    "section": "Table Tennis",
+    "text": "Table Tennis\nIn university, I started playing table tennis casually with friends in the university club. Over time, I became more involved and was appointed Secretary and Vice Chair of the club. In these role, I collaborate closely with the Chair in strategic planning and execution of club’s vision by coordinating events and supporting members as well as managing club documentation (membership records, club proposals, meeting minutes).\nIn February 2025, I was selected to represent my university in the Chancellor’s Trophy (Inter-University Games) for doubles table tennis event, where my partner and I secured 1st place. Transitioning from an individual sport (swimming) to a team-based one, taught me the value of teamwork, and how to adapt, communicate, and coordinate effectively with a partner to achieve a shared goal."
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Alvin Bong",
+    "section": "💻 Software",
+    "text": "💻 Software\nMS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python"
+  },
+  {
+    "objectID": "index.html#mathematics",
+    "href": "index.html#mathematics",
+    "title": "Alvin Bong",
+    "section": "♾️ Mathematics",
+    "text": "♾️ Mathematics\nOptimization, Hypothesis Testing, Regression Analysis, SVD, Spatial Autocorrelation, ODE, Linear Congruence, Abstract Algebra"
+  },
+  {
+    "objectID": "index.html#soft-skills",
+    "href": "index.html#soft-skills",
+    "title": "Alvin Bong",
+    "section": "🧩 Soft Skills",
+    "text": "🧩 Soft Skills\nTeamwork, Problem Solving, Leadership, Adaptability, Patience"
   }
 ]

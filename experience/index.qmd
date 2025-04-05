@@ -1,0 +1,67 @@
+---
+title: Experience
+---
+
+# Brunei R User: Logistics {#sec-bruneir}
+
+Starting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.
+
+I served as the speaker for the group’s [`first 2025 meetup`](https://www.instagram.com/p/DGqT56LPt08/), where I delivered a [`talk`](https://bruneir.github.io/brm-bruneimap/) on Spatial Data Analysis using the newly released `{bruneimap}` package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data.
+
+::::: columns
+::: {.column width="50%"}
+![](images/bruneir1.png){width="90%" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/bruneir2.png){width="90%" fig-align="center"}
+:::
+:::::
+
+# NBT Brunei (Inchcape): Finance Clerk {#sec-nbt}
+
+During my transition from A-Levels to university, I was grateful to secure my first corporate role as a Finance Clerk at NBT. In this role, I was responsible for **tax analysis**, extracting financial data from Autoline software, importing it into MS Excel for categorization and cleaning, and filling in missing details such as reasons and sources. This process ensured accurate tax classification and compliance with financial regulations. Additionally, I assisted in training the India team on the same tax analysis procedures, ensuring consistency and accuracy across teams.
+
+Beyond tax and expense tracking, I **led the implementation of MS Power BI** for financial analysis, developing interactive dashboards for expenditure tracking and credit note evaluations. I also guided the Customer Relations department in building their own dashboards to track customer complaints and satisfaction metrics, improving their ability to analyze trends and enhance service quality. These dashboards were later used in presentations and meetings, providing insights that supported decision-making and strategic planning.
+
+In addition to these key projects, I also handled **administrative tasks** of issuing cheques, writing meeting minutes, and restructuring financial documentation. I revised the formats for claim forms, leave forms, discount approval forms, payment vouchers (PV), and supplier vouchers (SV) to improve clarity and efficiency in financial processing.
+
+# Private Tutor {#sec-tutor}
+
+I started tutoring in 2022 to help my younger cousin prepare for his primary graduation examination. Over time, I expanded to tutoring family friends in Mathematics and Additional Mathematics, covering levels from primary school to Cambridge O-Levels.
+
+I **develop customized learning programs** tailored to each student's needs, recognizing that everyone thinks differently and benefits from different approaches. My approach focuses on optimizing explanations to match each student’s learning style, making difficult topics more accessible. Through tutoring, I experienced firsthand the true meaning behind the Feynman Technique — if you can't explain something simply, you don't truly understand it. Breaking down complex concepts for my students not only helped them learn but also reinforced my own understanding.
+
+# Sports {#sec-sports}
+
+## Swimming
+
+I began swimming at the age of six, starting with local and regional competitions. I remember staying late after school for training, driven by the goal of joining the national team and competing internationally. After years of dedication and perseverance, I earned a spot on the national team in 2018 and was honored to represent Brunei in the ASEAN School Games in [`2018`](https://borneo363.rssing.com/chan-61976226/article6441.html) and [`2019`](https://mediapermata.com.bn/brunei-contingent-return-heros-welcome/). I retired from competitive swimming in 2020 to focus on my professional life.
+
+The greatest lesson I took from swimming is the **importance of discipline, committing to a routine, and pushing through challenges.**
+
+::::: columns
+::: {.column width="50%"}
+![](images/swim1.png){width="90%" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/swim2.png){width="90%" fig-align="center"}
+:::
+:::::
+
+## Table Tennis
+
+In university, I started playing table tennis casually with friends in the university club. Over time, I became more involved and was appointed Secretary and Vice Chair of the club. In these role, I collaborate closely with the Chair in strategic planning and execution of club's vision by coordinating events and supporting members as well as managing club documentation (membership records, club proposals, meeting minutes).
+
+In February 2025, I was selected to represent my university in the Chancellor’s Trophy (Inter-University Games) for doubles table tennis event, where my partner and I secured [`1st place`](https://www.instagram.com/p/DF_TapKTN-E/). Transitioning from an individual sport (swimming) to a team-based one, taught me the **value of teamwork, and how to adapt, communicate, and coordinate effectively with a partner to achieve a shared goal.**
+
+::::: columns
+::: {.column width="50%"}
+![](images/TT1.png){width="90%" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/TT2.png){width="90%" fig-align="center"}
+:::
+:::::

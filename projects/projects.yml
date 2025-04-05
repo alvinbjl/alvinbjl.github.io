@@ -1,9 +1,23 @@
-- title: Spatial Autocorrelation of Schools Across Brunei Darussalam
+- title: Spatial Autocorrelation of Schools Across Brunei
   path: https://alvinbjl.github.io/spatial-autocorrelation-school/
   image: images/sch_lisa.jpg
   description: >
     This project uses spatial autocorrelation to analyse cluster of schools in
     Brunei.
   categories: [R, Spatial Autocorrelation, Data Analysis]
+  
+- title: Brunei Climate Data Analysis
+  path: https://alvinbjl.github.io/brunei-climate/
+  image: images/brunei-climate.png
+  description: >
+    This project analyse air temperature in Brunei across 40-years.
+  categories: [R, Time Series, Data Analysis]
+  
+- title: Intro to Spatial Data Analysis using {bruneimap}
+  path: https://bruneir.github.io/brm-bruneimap/
+  image: images/bruneir.png
+  description: >
+    Speaker for Brunei R User Group 2025Q1 sharing session.
+  categories: [R, Talk]
   
 - title: More to come. Stay tuned!
