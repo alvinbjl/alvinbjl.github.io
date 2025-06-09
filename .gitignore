@@ -3,3 +3,7 @@
 /.Rproj.user
 
 /.quarto/
+/.quarto
+.quarto/idx/index.qmd.json
+/.quarto
+.quarto/idx/projects/index.qmd.json

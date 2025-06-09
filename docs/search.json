@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Alvin Bong",
     "section": "",
-    "text": "I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nI aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine, Spatial Autocorelation of Schools, supervised by Dr. Haziq Jamil, examined the spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package.\nCurrently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact!\nMore About me!\n\n\n\n\n\nData Analysis\nEducation\nLinear Algebra\n\n\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB"
+    "text": "I am a third-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nI aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine, Spatial Autocorelation of Schools, supervised by Dr. Haziq Jamil, examined the spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package.\nCurrently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact!\n\n\n\n\n\nStatistical Data Analysis\nSpatial\nClimate\nEducation\n\n\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB"
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Alvin Bong",
     "section": "",
-    "text": "Data Analysis\nEducation\nLinear Algebra"
+    "text": "Statistical Data Analysis\nSpatial\nClimate\nEducation"
   },
   {
     "objectID": "index.html#education",
@@ -67,14 +67,14 @@
     "href": "index.html#software",
     "title": "Alvin Bong",
     "section": "💻 Software",
-    "text": "💻 Software\nMS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python"
+    "text": "💻 Software\nMS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python (Basics)"
   },
   {
     "objectID": "index.html#mathematics",
     "href": "index.html#mathematics",
     "title": "Alvin Bong",
     "section": "♾️ Mathematics",
-    "text": "♾️ Mathematics\nOptimization, Hypothesis Testing, Regression Analysis, SVD, Spatial Autocorrelation, ODE, Linear Congruence, Abstract Algebra"
+    "text": "♾️ Mathematics\nOptimization, Statistics, Hypothesis Testing, Regression Analysis, Spatial Autocorrelation"
   },
   {
     "objectID": "index.html#soft-skills",

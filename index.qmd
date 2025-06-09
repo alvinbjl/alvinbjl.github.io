@@ -25,21 +25,20 @@ format:
 
 # Biography
 
-I am a second-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.
+I am a third-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.
 
 I aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine,  [*Spatial Autocorelation of Schools*](https://alvinbjl.github.io/spatial-autocorrelation-school/), supervised by [Dr. Haziq Jamil](https://haziqj.ml), examined the  spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package. 
 
 Currently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact! 
 
-More About me!
-
 :::::: columns
 ::: {.column width="45%"}
 ## Interests
 
--   Data Analysis
+-   Statistical Data Analysis
+-   Spatial
+-   Climate
 -   Education
--   Linear Algebra
 
 :::
 
@@ -65,14 +64,14 @@ More About me!
 
 ## 💻 Software  
 
-MS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python  
+MS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python (Basics)
 :::
 
 ::: {.column width="33%"}
 
 ## ♾️ Mathematics  
 
-Optimization, Hypothesis Testing, Regression Analysis, SVD, Spatial Autocorrelation, ODE, Linear Congruence, Abstract Algebra  
+Optimization, Statistics, Hypothesis Testing, Regression Analysis, Spatial Autocorrelation
 :::
 
 ::: {.column width="33%"}
