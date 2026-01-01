@@ -7,3 +7,5 @@
 .quarto/idx/index.qmd.json
 /.quarto
 .quarto/idx/projects/index.qmd.json
+
+**/*.quarto_ipynb

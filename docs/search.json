@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alvin Bong",
     "section": "",
-    "text": "I am a third-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nI aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine, Spatial Autocorelation of Schools, supervised by Dr. Haziq Jamil, examined the spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package.\nCurrently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact!\n\n\n\n\n\nStatistical Data Analysis\nSpatial\nClimate\nEducation\n\n\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB"
+    "text": "I am a third-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.\nRecently, I participated in a visiting student research program at King Abdullah University of Science & Technology (KAUST), where I have the privilege of working under the supervision of Prof. Haavard Rue and Dr. Haziq Jamil. My work focuses on spatial statistics, and data simulation & estimation of latent trait models: Item Response Theory (IRT) using Bayesian methods.\n\n\n\n\n\nI am passionate in applying mathematical methods in solving global challenges. Still in the process of exploring different domain: finance, actuary, health, climate, education :)\n\n\n\n\n\nBSc in Mathematics  Universiti of Brunei Darussaalam (UBD)\nGCE A’Level (3A*)  Self-taught (Private Candidate)\nGCE O’Level (9A*)  Chung Hwa Middle School, BSB\n\n\n\n\n\n\n🧩 Programming with R\n💻 MS Office: Excel, Word, Powerpoint, Power BI\n♾️ Statistical Data Analysis & Modelling"
   },
   {
     "objectID": "index.html#interests",
@@ -25,14 +25,14 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Spatial Autocorrelation of Schools Across Brunei\n\n\n\nR\n\n\nSpatial Autocorrelation\n\n\nData Analysis\n\n\n\nThis project uses spatial autocorrelation to analyse cluster of schools in Brunei.\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei Climate Data Analysis\n\n\n\nR\n\n\nTime Series\n\n\nData Analysis\n\n\n\nThis project analyse air temperature in Brunei across 40-years.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Spatial Data Analysis using {bruneimap}\n\n\n\nR\n\n\nTalk\n\n\n\nSpeaker for Brunei R User Group 2025Q1 sharing session.\n\n\n\n\n\n\n\n\n\n\nMore to come. Stay tuned!\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Bayesian Spatial Modeling of School Disparities in Brunei Darussalam\n\n\n\nR\n\nSpatial Autocorrelation\n\nData Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Geostatistical Modeling of Noise Pollution in Madrid\n\n\n\nR\n\nSpatial Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint Patterns of Hawker Centres in Singapore\n\n\n\nR\n\nSpatial Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Autocorrelation of Schools Across Brunei\n\n\n\nR\n\nSpatial Statistics\n\n\n\nThis project uses spatial autocorrelation to analyse cluster of schools in Brunei.\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei Climate Data Analysis\n\n\n\nR\n\nTime Series\n\n\n\nThis project analyse air temperature in Brunei across 40-years.\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Spatial Data Analysis using {bruneimap}\n\n\n\nR\n\nTalk\n\n\n\nSpeaker for Brunei R User Group 2025Q1 sharing session.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "experience/index.html",
     "href": "experience/index.html",
     "title": "Experience",
     "section": "",
-    "text": "Starting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.\nI served as the speaker for the group’s first 2025 meetup, where I delivered a talk on Spatial Data Analysis using the newly released {bruneimap} package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data."
+    "text": "Brunei R User: Logistics\nStarting late 2024, I began contributing to the Brunei R User group, a community dedicated to R programming. As part of the logistics team, I handle venue coordination, seating arrangements, and equipment setup to ensure meetups run smoothly and offer a seamless, enjoyable experience for all participants.\nI served as the speaker for the group’s first 2025 meetup, where I delivered a talk on Spatial Data Analysis using the newly released {bruneimap} package. As a contributor to the package, I showcased its key features: Brunei spatial boundaries & datasets, and demonstrated practical applications and visualization built using this data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNBT Brunei (Inchcape): Finance Clerk\nDuring my transition from A-Levels to university, I was grateful to secure my first corporate role as a Finance Clerk at NBT. In this role, I was responsible for tax analysis, extracting financial data from Autoline software, importing it into MS Excel for categorization and cleaning, and filling in missing details such as reasons and sources. This process ensured accurate tax classification and compliance with financial regulations. Additionally, I assisted in training the India team on the same tax analysis procedures, ensuring consistency and accuracy across teams.\nBeyond tax and expense tracking, I led the implementation of MS Power BI for financial analysis, developing interactive dashboards for expenditure tracking and credit note evaluations. I also guided the Customer Relations department in building their own dashboards to track customer complaints and satisfaction metrics, improving their ability to analyze trends and enhance service quality. These dashboards were later used in presentations and meetings, providing insights that supported decision-making and strategic planning.\nIn addition to these key projects, I also handled administrative tasks of issuing cheques, writing meeting minutes, and restructuring financial documentation. I revised the formats for claim forms, leave forms, discount approval forms, payment vouchers (PV), and supplier vouchers (SV) to improve clarity and efficiency in financial processing."
   },
   {
     "objectID": "experience/index.html#logistics",
@@ -67,20 +67,27 @@
     "href": "index.html#software",
     "title": "Alvin Bong",
     "section": "💻 Software",
-    "text": "💻 Software\nMS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python (Basics)"
+    "text": "💻 Software\nMS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX"
   },
   {
     "objectID": "index.html#mathematics",
     "href": "index.html#mathematics",
     "title": "Alvin Bong",
     "section": "♾️ Mathematics",
-    "text": "♾️ Mathematics\nOptimization, Statistics, Hypothesis Testing, Regression Analysis, Spatial Autocorrelation"
+    "text": "♾️ Mathematics\nStatistical Data Analysis & Modelling, Spatial Statistics"
   },
   {
     "objectID": "index.html#soft-skills",
     "href": "index.html#soft-skills",
     "title": "Alvin Bong",
     "section": "🧩 Soft Skills",
-    "text": "🧩 Soft Skills\nTeamwork, Problem Solving, Leadership, Adaptability, Patience"
+    "text": "🧩 Soft Skills\nTeamwork, Problem Solving, Adaptability"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Alvin Bong",
+    "section": "",
+    "text": "🧩 Programming with R\n💻 MS Office: Excel, Word, Powerpoint, Power BI\n♾️ Statistical Data Analysis & Modelling"
   }
 ]

@@ -21,30 +21,21 @@ format:
     page-layout: full
 ---
 
-:::{#hero-heading}
-
+::::::: {#hero-heading}
 # Biography
 
 I am a third-year student at Universiti Brunei Darussalam (UBD), pursuing BSc in Mathematics. As a first-generation university student, I am honored to be a recipient of the Brunei Darussalam Government Scholarship for Foreign Students (BDGS), recognizing my commitment to academic excellence and leadership.
 
-I aspire to contribute to projects that applies mathematical methods in solving global challenges. A recent project of mine,  [*Spatial Autocorelation of Schools*](https://alvinbjl.github.io/spatial-autocorrelation-school/), supervised by [Dr. Haziq Jamil](https://haziqj.ml), examined the  spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package. 
+Recently, I participated in a visiting student research program at King Abdullah University of Science & Technology (KAUST), where I have the privilege of working under the supervision of [Prof. Haavard Rue](https://cemse.kaust.edu.sa/profiles/haavard-rue) and [Dr. Haziq Jamil](https://haziqj.ml). My work focuses on spatial statistics, and data simulation & estimation of latent trait models: Item Response Theory (IRT) using Bayesian methods.
 
-Currently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact! 
+<!-- I am passionate in applaying mathematical methods in solving global challenges. A recent project of mine, [*Spatial Autocorelation of Schools*](https://alvinbjl.github.io/spatial-autocorrelation-school/), supervised by [Dr. Haziq Jamil](https://haziqj.ml), examined the spatial distributions of schools in Brunei using R programming language. Datasets from this work contributed to the development of the {bruneimap} package. -->
+
+<!-- Currently, I am exploring climate data analysis and expanding my technical skills by learning Python. Outside of academics, I stay active through sports, particularly swimming, table tennis, and badminton. Whether I’m coding, in the pool, or on the court, I am always eager to learn, grow and make a meaningful impact! -->
+
+# Interests
+I am passionate in applying mathematical methods in solving global challenges. Still in the process of exploring different domain: finance, actuary, health, climate, education :)
 
 :::::: columns
-::: {.column width="45%"}
-## Interests
-
--   Statistical Data Analysis
--   Spatial
--   Climate
--   Education
-
-:::
-
-::: {.column width="5%"}
-:::
-
 ::: {.column width="50%"}
 ## Education
 
@@ -52,53 +43,88 @@ Currently, I am exploring climate data analysis and expanding my technical skill
 -   **GCE A'Level** (3A\*) <br> Self-taught (Private Candidate)
 -   **GCE O'Level** (9A\*) <br> Chung Hwa Middle School, BSB
 :::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+## Skills
+
+🧩 Programming with R
+
+💻 MS Office: Excel, Word, Powerpoint, Power BI
+
+♾️ Statistical Data Analysis & Modelling
+
+ <!-- 🧩 Teamwork, Problem Solving, Adaptability -->
+
+:::
+
 ::::::
+:::::::
 
-:::
+<!-- :::::: columns -->
+<!-- ::: {.column width="45%"} -->
+<!-- ## Interests -->
 
+<!-- -   Statistical Data Analysis -->
+<!-- -   Spatial -->
+<!-- -   Climate -->
+<!-- -   Education -->
+<!-- ::: -->
 
-# Skills
-::: {.columns}
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
 
-::: {.column width="33%"}
+<!-- ::: {.column width="50%"} -->
+<!-- ## Education -->
 
-## 💻 Software  
+<!-- -   **BSc in Mathematics** <br> Universiti of Brunei Darussaalam (UBD) -->
+<!-- -   **GCE A'Level** (3A\*) <br> Self-taught (Private Candidate) -->
+<!-- -   **GCE O'Level** (9A\*) <br> Chung Hwa Middle School, BSB -->
+<!-- ::: -->
+<!-- :::::: -->
+<!-- ::::::: -->
 
-MS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX, MATLAB, Python (Basics)
-:::
+<!-- # Skills -->
 
-::: {.column width="33%"}
+<!-- :::::: columns -->
+<!-- ::: {.column width="33%"} -->
+<!-- ## 💻 Software -->
 
-## ♾️ Mathematics  
+<!-- MS Office (Word, Excel, Power BI, PowerPoint), R, Quarto, LaTeX -->
+<!-- ::: -->
 
-Optimization, Statistics, Hypothesis Testing, Regression Analysis, Spatial Autocorrelation
-:::
+<!-- ::: {.column width="33%"} -->
+<!-- ## ♾️ Mathematics -->
+<!-- Statistical Data Analysis & Modelling, Spatial Statistics -->
+<!-- <!-- Optimization, Statistics, Hypothesis Testing, Regression Analysis, Spatial Autocorrelation -->
+<!-- ::: -->
 
-::: {.column width="33%"}
+<!-- ::: {.column width="33%"} -->
+<!-- ## 🧩 Soft Skills -->
 
-## 🧩 Soft Skills  
+<!-- Teamwork, Problem Solving, Adaptability -->
+<!-- <!-- Leadership, Adaptability, Patience --> 
+<!-- ::: -->
+<!-- :::::: -->
 
-Teamwork, Problem Solving, Leadership, Adaptability, Patience  
-:::
-:::
+<!-- # Experience -->
 
-# Experience
-::: {.columns}
+<!-- ::::::: columns -->
+<!-- ::: {.column width="40%"} -->
+<!-- [![](images/exp1.png){fig-align="center"}](experience/index.qmd#sec-bruneir) -->
+<!-- ::: -->
 
-::: {.column width="40%"}
-[![](images/exp1.png){fig-align="center"}](experience/index.qmd#sec-bruneir)
-:::
+<!-- ::: {.column width="40%"} -->
+<!-- [![](images/exp2.png){fig-align="center"}](experience/index.qmd#sec-nbt) -->
+<!-- ::: -->
 
-::: {.column width="40%"}
-[![](images/exp2.png){fig-align="center"}](experience/index.qmd#sec-nbt)
-:::
+<!-- ::: {.column width="40%"} -->
+<!-- [![](images/exp3.png){fig-align="center"}](experience/index.qmd#sec-tutor) -->
+<!-- ::: -->
 
-::: {.column width="40%"}
-[![](images/exp3.png){fig-align="center"}](experience/index.qmd#sec-tutor)
-:::
-
-::: {.column width="40%"}
-[![](images/exp4.png){fig-align="center"}](experience/index.qmd#sec-sports)
-:::
-
-:::
+<!-- ::: {.column width="40%"} -->
+<!-- [![](images/exp4.png){fig-align="center"}](experience/index.qmd#sec-sports) -->
+<!-- ::: -->
+<!-- ::::::: -->

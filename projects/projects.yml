@@ -1,17 +1,41 @@
+- title: Bayesian Spatial Modeling of School Disparities in Brunei Darussalam
+  path: https://alvinbjl.github.io/school-disparity-areal-model/
+  image: images/1.png
+  # description: >
+  #   This project uses spatial autocorrelation to analyse cluster of schools in
+  #   Brunei.
+  categories: [R, Spatial Autocorrelation, Data Analysis]
+  
+- title: Bayesian Geostatistical Modeling of Noise Pollution in Madrid
+  path: https://alvinbjl.github.io/madrid-noise-geostatistics/
+  image: images/2.png
+  # description: >
+  #   This project uses spatial autocorrelation to analyse cluster of schools in
+  #   Brunei.
+  categories: [R, Spatial Statistics]
+  
+- title: Point Patterns of Hawker Centres in Singapore
+  path: https://alvinbjl.github.io/hawker-spatial-point/
+  image: images/3.png
+  # description: >
+  #   This project uses spatial autocorrelation to analyse cluster of schools in
+  #   Brunei.
+  categories: [R, Spatial Statistics]
+
 - title: Spatial Autocorrelation of Schools Across Brunei
   path: https://alvinbjl.github.io/spatial-autocorrelation-school/
   image: images/sch_lisa.jpg
   description: >
     This project uses spatial autocorrelation to analyse cluster of schools in
     Brunei.
-  categories: [R, Spatial Autocorrelation, Data Analysis]
+  categories: [R, Spatial Statistics]
   
 - title: Brunei Climate Data Analysis
   path: https://alvinbjl.github.io/brunei-climate/
   image: images/brunei-climate.png
   description: >
     This project analyse air temperature in Brunei across 40-years.
-  categories: [R, Time Series, Data Analysis]
+  categories: [R, Time Series]
   
 - title: Intro to Spatial Data Analysis using {bruneimap}
   path: https://bruneir.github.io/brm-bruneimap/
@@ -20,4 +44,4 @@
     Speaker for Brunei R User Group 2025Q1 sharing session.
   categories: [R, Talk]
   
-- title: More to come. Stay tuned!
+# - title: More to come. Stay tuned!
